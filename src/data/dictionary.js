@@ -1,5 +1,5 @@
 export const dictionary = [
-  "which",
+"which",
 "there",
 "their",
 "about",
